@@ -68,7 +68,7 @@ $language_data = array (
             'return',
             'set','static','switch',
             'this','throw','try','typeof',
-            'var','void'
+            'var','void', 'let'
             ),
         2 => array(
             //reserved/non-keywords; metaconstants
